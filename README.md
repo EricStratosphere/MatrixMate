@@ -10,7 +10,7 @@ MatrixMate so far is made entirely in C#. As of today, it is capable of performi
 - Calculating Determinants
 
 Future Features to be implemented:
-- A Graphical User Interface for a more convenient usage.
+- A Graphical User Interface for ease of use.
 - LU-factorization for Matrix.
 
 # How to use
