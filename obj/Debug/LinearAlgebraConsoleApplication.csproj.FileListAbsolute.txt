@@ -1,0 +1,8 @@
+C:\Users\Ynigo Ramas\VisualStudioC#Test\RamasLab3\LinearAlgebraConsoleApplication\bin\Debug\LinearAlgebraConsoleApplication.exe.config
+C:\Users\Ynigo Ramas\VisualStudioC#Test\RamasLab3\LinearAlgebraConsoleApplication\bin\Debug\LinearAlgebraConsoleApplication.exe
+C:\Users\Ynigo Ramas\VisualStudioC#Test\RamasLab3\LinearAlgebraConsoleApplication\bin\Debug\LinearAlgebraConsoleApplication.pdb
+C:\Users\Ynigo Ramas\VisualStudioC#Test\RamasLab3\LinearAlgebraConsoleApplication\obj\Debug\LinearAlgebraConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Ynigo Ramas\VisualStudioC#Test\RamasLab3\LinearAlgebraConsoleApplication\obj\Debug\LinearAlgebraConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ynigo Ramas\VisualStudioC#Test\RamasLab3\LinearAlgebraConsoleApplication\obj\Debug\LinearAlgebraConsoleApplication.exe
+C:\Users\Ynigo Ramas\VisualStudioC#Test\RamasLab3\LinearAlgebraConsoleApplication\obj\Debug\LinearAlgebraConsoleApplication.pdb
+C:\Users\Ynigo Ramas\VisualStudioC#Test\RamasLab3\LinearAlgebraConsoleApplication\obj\Debug\LinearAlgebraConsoleApplication.exe.config
