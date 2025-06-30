@@ -23,5 +23,9 @@ For example:
 
 Note: As of now, the feature to calculate reduced-row-echelon only works on systems that have the same number of unknowns as equations. Should there be more unknowns than equations or vice versa, errors may occur.
 
+# How to run
+
+<br>Clone the repository and run the executable MatrixMate application file.
+
 # License 
 Distributed under GNU General Public License v2.0. See LICENSE.txt for more information.
