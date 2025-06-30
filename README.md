@@ -14,6 +14,13 @@ Future Features to be implemented:
 - LU-factorization for Matrix.
 
 # How to use
-Upon opening of the application, you will immediately be met by the program asking for two user-inputs. The row-size of your matrix, and the column-size of 
+Upon opening of the application, you will immediately be met by the program asking for two user-inputs. The row-size of your matrix, and the column-size. The menu that follows after your response depends on whether the row-size and column-size are equal. If they are, you will be able to perform exclusive operations such as calculating determinants and inverses of a matrix. When asked to input the entries of a matrix, you are to strictly enter them one row at a time separated by a space. A single entry can also be input as a fraction; two numbers separated by a forward slash without spaces.
+
+For example:
+"1 2 3 4/5" and "1 2 3 4" are valid inputs.
+"1 2 3 4 / 5" and "1 2  3 4" are not.
+
+Note: As of now, the feature to calculate reduced-row-echelon only works on systems that have the same number of unknowns as equations. Should there be more unknowns than equations or vice versa, errors may occur.
+
 # License 
 Distributed under GNU General Public License v2.0. See LICENSE.txt for more information.
