@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ynigo Ramas\\VisualStudioC#Test\\LinearAlgebraConsoleApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\Ynigo Ramas\\Projects\\MatrixMate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45814A45-A6D8-4952-923C-5EA016B9D7BB}|LinearAlgebraConsoleApplication.csproj|c:\\users\\ynigo ramas\\visualstudioc#test\\linearalgebraconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45814A45-A6D8-4952-923C-5EA016B9D7BB}|LinearAlgebraConsoleApplication.csproj|c:\\users\\ynigo ramas\\projects\\matrixmate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45814A45-A6D8-4952-923C-5EA016B9D7BB}|LinearAlgebraConsoleApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ynigo Ramas\\VisualStudioC#Test\\LinearAlgebraConsoleApplication\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ynigo Ramas\\Projects\\MatrixMate\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Ynigo Ramas\\VisualStudioC#Test\\LinearAlgebraConsoleApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Ynigo Ramas\\Projects\\MatrixMate\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAIwEgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAEgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T11:22:37.746Z",
               "EditorCaption": ""
