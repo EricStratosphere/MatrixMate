@@ -1,0 +1,5 @@
+C:\Users\Ynigo Ramas\MatrixMate\MatrixMate.exe
+C:\Users\Ynigo Ramas\MatrixMate\MatrixMate.dll
+C:\Users\Ynigo Ramas\MatrixMate\MatrixMate.deps.json
+C:\Users\Ynigo Ramas\MatrixMate\MatrixMate.runtimeconfig.json
+C:\Users\Ynigo Ramas\MatrixMate\MatrixMate.pdb

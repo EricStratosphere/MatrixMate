@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85
+VisualStudioVersion = 17.14.36221.1 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearAlgebraConsoleApplication", "LinearAlgebraConsoleApplication.csproj", "{45814A45-A6D8-4952-923C-5EA016B9D7BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMate", "MatrixMate\MatrixMate.csproj", "{F167F664-A84F-46E6-985E-334E0C9C59E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{45814A45-A6D8-4952-923C-5EA016B9D7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{45814A45-A6D8-4952-923C-5EA016B9D7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{45814A45-A6D8-4952-923C-5EA016B9D7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{45814A45-A6D8-4952-923C-5EA016B9D7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F167F664-A84F-46E6-985E-334E0C9C59E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F167F664-A84F-46E6-985E-334E0C9C59E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F167F664-A84F-46E6-985E-334E0C9C59E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F167F664-A84F-46E6-985E-334E0C9C59E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {711F151A-D95C-47C5-8B3A-10DE21F80F6E}
+		SolutionGuid = {E0D81975-19C7-4349-BCE4-03F1477D8EB4}
 	EndGlobalSection
 EndGlobal
