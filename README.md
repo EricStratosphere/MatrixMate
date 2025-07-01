@@ -21,7 +21,7 @@ For example:
 - "1 2 3 4 / 5" and "1 2.6 3 4" are not.
 - Inputs where an entry is separated by more than one space is also invalid.
 
-Note: As of now, the feature to calculate reduced-row-echelon only works on systems that have the same number of unknowns as equations. Should there be more unknowns than equations or vice versa, errors may occur.
+Note: As of now, the feature to calculate reduced-row-echelon only works on systems that have the same number of unknowns as equations. Should there be more unknowns than equations or vice versa, errors may occur
 
 # How to run
 
