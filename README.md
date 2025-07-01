@@ -25,7 +25,7 @@ Note: As of now, the feature to calculate reduced-row-echelon only works on syst
 
 # How to run
 
-<br>Clone the repository and run the executable MatrixMate application file.
+<br>Clone the repository and run the executable MatrixMate application file. If the operating system prevents you from running the unrecognized app, click more info then run anyway.
 
 # License 
 Distributed under GNU General Public License v2.0. See LICENSE.txt for more information.
