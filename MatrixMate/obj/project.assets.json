@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ynigo Ramas\\MatrixMate\\MatrixMate\\MatrixMate.csproj",
+      "projectUniqueName": "C:\\Users\\Ynigo Ramas\\Projects\\MatrixMate\\MatrixMate\\MatrixMate.csproj",
       "projectName": "MatrixMate",
-      "projectPath": "C:\\Users\\Ynigo Ramas\\MatrixMate\\MatrixMate\\MatrixMate.csproj",
+      "projectPath": "C:\\Users\\Ynigo Ramas\\Projects\\MatrixMate\\MatrixMate\\MatrixMate.csproj",
       "packagesPath": "C:\\Users\\Ynigo Ramas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ynigo Ramas\\MatrixMate\\MatrixMate\\obj\\",
+      "outputPath": "C:\\Users\\Ynigo Ramas\\Projects\\MatrixMate\\MatrixMate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
